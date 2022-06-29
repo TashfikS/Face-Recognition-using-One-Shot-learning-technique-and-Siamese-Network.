@@ -2,6 +2,8 @@ A Siamese Network model has trained for face recognition. First model was traine
 
 Model was trained in "TensorFlow" library & other scripts was written in python. 
 
+Model was trained in Google colab & other scripts were run in VS code. All libraries have mentioned in a block of notebook, just by running the block all libraries will be imported. 
+
 How to use - 
 
 1. Mount to Google drive
